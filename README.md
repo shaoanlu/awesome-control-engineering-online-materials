@@ -40,9 +40,10 @@ Last Update: 2021/01/28
 - [ESE 680: Learning and Control, fall 2019,  Nikolai Matni(UPenn), w/o videos](https://nikolaimatni.github.io/courses/ese680-fall2019/index.html)
 #### Books
 #### Open-source softwares
-#### Seminars
+#### Seminars & workshops
 - [Control Meets Learning](https://www.youtube.com/channel/UCpo7ZjrPAr-wTKbJl3jDOVg/videos)
 - [Robitics Today Seminar](https://www.youtube.com/c/RoboticsTodaySeminar)
+- [Learning for Dynamics and Control, 2019](https://www.youtube.com/playlist?list=PLYx2nCJDi_QFrGOmIM0ale8T_1Fqu8OIF)
 ---
 
 
