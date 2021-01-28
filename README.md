@@ -43,7 +43,7 @@ Last Update: 2021/01/28
 #### Seminars & workshops
 - [Control Meets Learning](https://www.youtube.com/channel/UCpo7ZjrPAr-wTKbJl3jDOVg/videos)
 - [Robitics Today Seminar](https://www.youtube.com/c/RoboticsTodaySeminar)
-- [Learning for Dynamics and Control, 2019](https://www.youtube.com/playlist?list=PLYx2nCJDi_QFrGOmIM0ale8T_1Fqu8OIF)
+- [Learning for Dynamics and Control (L4DC), 2019](https://www.youtube.com/playlist?list=PLYx2nCJDi_QFrGOmIM0ale8T_1Fqu8OIF)
 ---
 
 
