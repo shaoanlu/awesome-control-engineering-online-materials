@@ -3,31 +3,39 @@ A collection of free online materials for control engineering and control theory
 
 Last Update: 2021/01/28
 
-## Index
-
+## Table of Content
+* [Linear control](#linear-control)
+* [Noninear control](#nonlinear-control)
+* [Optimal control](#optimal-control)
+* [Learning-based control](#learning-based-control)
+* [System identification](#system-identification)
+* [Estimation](#estimation)
+* [Robotics](#robotics)
 ---
 
-### 1. Linear control
+### Linear control
 #### Courses
 #### Books
 #### Open-source softwares
 ---
 
-### 2. Nonlinear control
-### Courses
-- [Slotine Lectures on Nonlinear Systems (MIT)](http://web.mit.edu/nsl/www/videos/lectures.html)
-- 
-
-### 3. Optimal control
+### Nonlinear control
 #### Courses
-- [Model Predictive Control course, Alberto Bemporad (IMT Lucca)](http://cse.lab.imtlucca.it/~bemporad/mpc_course.html)
+- [Slotine Lectures on Nonlinear Systems (MIT), w/ videos](http://web.mit.edu/nsl/www/videos/lectures.html)
+- [EE222/ME237, Nonlinear Systems: Analysis, Stability, and Control, spring 2020, Claire J. Tomlin (UCBerkeley), w/o videos](https://inst.eecs.berkeley.edu//~ee222/sp20/)
+
+### Optimal control
+#### Courses
+- [Model Predictive Control course, Alberto Bemporad (IMT Lucca), w/o videos](http://cse.lab.imtlucca.it/~bemporad/mpc_course.html)
 #### Books
 - [Model Predictive Control: Theory, Computation, and Design, James B. Rawlings](https://sites.engineering.ucsb.edu/~jbraw/mpc/)
 #### Open-source softwares
 ---
 
-### 4. Learning-based conotrol
+### Learning-based control
 #### Courses
+- [AA 203: Optimal and Learning-based Control, Marco Pavone(Stanford)](http://asl.stanford.edu/aa203/)
+- [ESE 680: Learning and Control, fall 2019,  Nikolai Matni(UPenn)](https://nikolaimatni.github.io/courses/ese680-fall2019/index.html)
 #### Books
 #### Open-source softwares
 #### Seminars
@@ -36,23 +44,25 @@ Last Update: 2021/01/28
 ---
 
 
-### 5. System identification
+### System identification
 #### Courses
-- [Control System II, spring 2020, Roy Smith (ETH-Zuirch)](https://video.ethz.ch/lectures/d-itet/2020/spring/227-0216-00L.html)
+- [Control System II, spring 2020, Roy Smith (ETH-Zuirch), w/ videos](https://video.ethz.ch/lectures/d-itet/2020/spring/227-0216-00L.html)
+- [Modeling and System Identification, Moritz Diehl(UCF)](https://www.syscop.de/teaching/ws2019/msi)
 #### Books
 #### Open-source softwares
 ---
 
-### 6. Estimation
+### Estimation
 #### Courses
 #### Books
 #### Open-source softwares
 ---
 
-### 7. Robotics
+### Robotics
 #### Courses
 - [Underactuated Robotics, Russ Tedrake (MIT)](http://underactuated.mit.edu/)
 - [Dynamics of Robotic Systems, Jacob Rosen (UCLA)](http://bionics.seas.ucla.edu/education/MAE_263D.html)
+- [Robotics: Science and Systems, Zhibin Li & Micheal Mistry (Edin)](http://wcms.inf.ed.ac.uk/ipab/rss)
 #### Books
 #### Open-source softwares
 
