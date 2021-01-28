@@ -48,7 +48,7 @@ Last Update: 2021/01/28
 
 ### System identification
 #### Courses
-- [Control System II, spring 2020, Roy Smith (ETH-Zuirch), w/ videos](https://video.ethz.ch/lectures/d-itet/2020/spring/227-0216-00L.html)
+- [Control System II, spring 2020, Roy Smith (ETH-Zurich), w/ videos](https://video.ethz.ch/lectures/d-itet/2020/spring/227-0216-00L.html)
 - [Modeling and System Identification, Moritz Diehl(UCF), w/o videos](https://www.syscop.de/teaching/ws2019/msi)
 #### Books
 #### Open-source softwares
