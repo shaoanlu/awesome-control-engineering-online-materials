@@ -31,6 +31,7 @@ Last Update: 2021/01/28
 #### Books
 - [Model Predictive Control: Theory, Computation, and Design, James B. Rawlings](https://sites.engineering.ucsb.edu/~jbraw/mpc/)
 #### Open-source softwares
+- [do-mpc: Model predictive control python toolbox](https://www.do-mpc.com/en/latest/)
 ---
 
 ### Learning-based control
