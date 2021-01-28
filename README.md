@@ -35,8 +35,8 @@ Last Update: 2021/01/28
 
 ### Learning-based control
 #### Courses
-- [AA 203: Optimal and Learning-based Control, Marco Pavone(Stanford)](http://asl.stanford.edu/aa203/)
-- [ESE 680: Learning and Control, fall 2019,  Nikolai Matni(UPenn)](https://nikolaimatni.github.io/courses/ese680-fall2019/index.html)
+- [AA 203: Optimal and Learning-based Control, Marco Pavone(Stanford), w/o videos](http://asl.stanford.edu/aa203/)
+- [ESE 680: Learning and Control, fall 2019,  Nikolai Matni(UPenn), w/o videos](https://nikolaimatni.github.io/courses/ese680-fall2019/index.html)
 #### Books
 #### Open-source softwares
 #### Seminars
@@ -48,7 +48,7 @@ Last Update: 2021/01/28
 ### System identification
 #### Courses
 - [Control System II, spring 2020, Roy Smith (ETH-Zuirch), w/ videos](https://video.ethz.ch/lectures/d-itet/2020/spring/227-0216-00L.html)
-- [Modeling and System Identification, Moritz Diehl(UCF)](https://www.syscop.de/teaching/ws2019/msi)
+- [Modeling and System Identification, Moritz Diehl(UCF), w/o videos](https://www.syscop.de/teaching/ws2019/msi)
 #### Books
 #### Open-source softwares
 ---
@@ -61,9 +61,9 @@ Last Update: 2021/01/28
 
 ### Robotics
 #### Courses
-- [Underactuated Robotics, Russ Tedrake (MIT)](http://underactuated.mit.edu/)
-- [Dynamics of Robotic Systems, Jacob Rosen (UCLA)](http://bionics.seas.ucla.edu/education/MAE_263D.html)
-- [Robotics: Science and Systems, Zhibin Li & Micheal Mistry (Edin)](http://wcms.inf.ed.ac.uk/ipab/rss)
+- [Underactuated Robotics, Russ Tedrake (MIT), w/ videos](http://underactuated.mit.edu/)
+- [Robotics: Science and Systems, Zhibin Li & Micheal Mistry (Edin), w/ videos](http://wcms.inf.ed.ac.uk/ipab/rss)
+- [Dynamics of Robotic Systems, Jacob Rosen (UCLA), w/o videos](http://bionics.seas.ucla.edu/education/MAE_263D.html)
 #### Books
 #### Open-source softwares
 
