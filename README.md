@@ -23,6 +23,7 @@ Last Update: 2021/01/28
 #### Courses
 - [Slotine Lectures on Nonlinear Systems (MIT), w/ videos](http://web.mit.edu/nsl/www/videos/lectures.html)
 - [EE222/ME237, Nonlinear Systems: Analysis, Stability, and Control, spring 2020, Claire J. Tomlin (UCBerkeley), w/o videos](https://inst.eecs.berkeley.edu//~ee222/sp20/)
+---
 
 ### Optimal control
 #### Courses
