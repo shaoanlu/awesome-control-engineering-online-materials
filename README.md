@@ -11,6 +11,7 @@ Last Update: 2021/01/28
 * [System identification](#system-identification)
 * [Estimation](#estimation)
 * [Robotics](#robotics)
+* [Convex optimization](#convex-optimization)
 ---
 
 ### Linear control
@@ -66,6 +67,13 @@ Last Update: 2021/01/28
 - [Underactuated Robotics, Russ Tedrake (MIT), w/ videos](http://underactuated.mit.edu/)
 - [Robotics: Science and Systems, Zhibin Li & Micheal Mistry (Edin), w/ videos](http://wcms.inf.ed.ac.uk/ipab/rss)
 - [Dynamics of Robotic Systems, Jacob Rosen (UCLA), w/o videos](http://bionics.seas.ucla.edu/education/MAE_263D.html)
+#### Books
+#### Open-source softwares
+---
+
+### Convex optimization
+#### Courses
+- [Convex Optimization, Ryan Tibshirani (CMU)](http://www.stat.cmu.edu/~ryantibs/convexopt/), w/ [videos](https://www.youtube.com/playlist?list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC)
 #### Books
 #### Open-source softwares
 
