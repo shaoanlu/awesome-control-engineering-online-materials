@@ -30,6 +30,7 @@ Last Update: 2021/01/28
 #### Courses
 - [Model Predictive Control course, Alberto Bemporad (IMT Lucca), w/o videos](http://cse.lab.imtlucca.it/~bemporad/mpc_course.html)
 - [Optimal control, Zac Manchester (CMU), w/ videos](https://www.youtube.com/playlist?list=PLZnJoM76RM6Iaf59ICcU9-DzztGZvK_52)
+- [Optimal & Model Predicive Control, Mazen Alamir (Research Director at CNRS), w/ jupyter notebooks](https://www.mazenalamir.fr/MPC/index.html)
 #### Books
 - [Model Predictive Control: Theory, Computation, and Design, James B. Rawlings](https://sites.engineering.ucsb.edu/~jbraw/mpc/)
 #### Open-source softwares
