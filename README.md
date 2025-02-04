@@ -1,7 +1,7 @@
 # awesome-control-engineering-online-materials
 A collection of free online materials for control engineering and control theory
 
-Last Update: 2021/01/28
+Last Update: 2025/02/04
 
 ## Table of Content
 * [Linear control](#linear-control)
@@ -41,6 +41,8 @@ Last Update: 2021/01/28
 #### Courses
 - [AA 203: Optimal and Learning-based Control, Marco Pavone(Stanford), w/o videos](http://asl.stanford.edu/aa203/)
 - [ESE 680: Learning and Control, fall 2019,  Nikolai Matni(UPenn), w/o videos](https://nikolaimatni.github.io/courses/ese680-fall2019/index.html)
+- [CS 4756/5756: Robot Learning, Sanjiban Choudhury (Cornell)](https://www.cs.cornell.edu/courses/cs4756/2024fa/)
+- [16-831: Introduction to Robot Learning, Guanya Shi (CMU)](https://16-831.github.io/)
 #### Books
 #### Open-source softwares
 #### Seminars & workshops
@@ -64,11 +66,17 @@ Last Update: 2021/01/28
 #### Open-source softwares
 ---
 
+### Planning and decision making
+#### Courses
+- [CS 6756: Learning for Robot Decision Making, Sanjiban Choudhury (Cornell)](https://www.cs.cornell.edu/courses/cs6756/2023fa/)
+- [16-782: Planning and Decision-making in Robotics, Maxim Likhachev (CMU)](https://www.cs.cmu.edu/~maxim/classes/robotplanning_grad/)
+
 ### Robotics
 #### Courses
 - [Underactuated Robotics, Russ Tedrake (MIT), w/ videos](http://underactuated.mit.edu/)
 - [Robotics: Science and Systems, Zhibin Li & Micheal Mistry (Edin), w/ videos](http://wcms.inf.ed.ac.uk/ipab/rss)
 - [Dynamics of Robotic Systems, Jacob Rosen (UCLA), w/o videos](http://bionics.seas.ucla.edu/education/MAE_263D.html)
+- [CSE 478: Autonomous Robotics, Abhishek Gupta (UW)](https://courses.cs.washington.edu/courses/cse478/24wi/)
 #### Books
 #### Open-source softwares
 ---
