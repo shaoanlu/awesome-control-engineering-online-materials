@@ -85,7 +85,9 @@ Last Update: 2025/02/04
 
 ### Convex optimization
 #### Courses
+- [EE364a: Convex Optimization I, Stephen Boyd (Stanford)](https://web.stanford.edu/class/ee364a/)
 - [Convex Optimization, Ryan Tibshirani (CMU)](http://www.stat.cmu.edu/~ryantibs/convexopt/), w/ [videos](https://www.youtube.com/playlist?list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC)
+- [CVXPY Course at NASA, Philipp Schiele, Steven Diamond, Parth Nobel, Akshay Agrawal](https://www.cvxgrp.org/nasa/)
 #### Books
 #### Open-source softwares
 
