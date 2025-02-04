@@ -10,6 +10,7 @@ Last Update: 2025/02/04
 * [Learning-based control](#learning-based-control)
 * [System identification](#system-identification)
 * [Estimation](#estimation)
+* [Planning and decision making](#planning-and-decision-making)
 * [Robotics](#robotics)
 * [Convex optimization](#convex-optimization)
 ---
@@ -70,6 +71,7 @@ Last Update: 2025/02/04
 #### Courses
 - [CS 6756: Learning for Robot Decision Making, Sanjiban Choudhury (Cornell)](https://www.cs.cornell.edu/courses/cs6756/2023fa/)
 - [16-782: Planning and Decision-making in Robotics, Maxim Likhachev (CMU)](https://www.cs.cmu.edu/~maxim/classes/robotplanning_grad/)
+---
 
 ### Robotics
 #### Courses
